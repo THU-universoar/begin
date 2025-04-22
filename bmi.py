@@ -1,4 +1,4 @@
-#BMI = 体重 / （身高 ** 2）
+#BMI = 体重 / （身高 ** 2 ）
 
 try:
     user_weight = float(input("请输入您的体重（单位：kg）："))
